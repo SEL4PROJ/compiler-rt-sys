@@ -1,0 +1,11 @@
+[package]
+name = "compiler_rt"
+version = "0.1.0"
+authors = ["kentm <kent.mcleod@data61.csiro.au>"]
+
+[lib]
+name = "compiler_rt"
+path = "src/lib.rs"
+
+
+[dependencies]
